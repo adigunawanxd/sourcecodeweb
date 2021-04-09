@@ -1,0 +1,66 @@
+{
+  "short_name": "Sourcecodeweb.id",
+  "name": "Sourcecodeweb.id",
+  "description": "Blog Kumpulan Project Pemrograman Open Source Berbasis Web. Dapatkan Source Code Web, Ebook, Script, dan Produk Programming Siap Pakai dari MC Project",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-Y_oQHQ2Twb4/YHAdubY8WWI/AAAAAAAAAzQ/3xlq_EE5-XURf5EQ2l0gTBm7ba5j-psMgCLcBGAsYHQ/s32/MycodingLogo32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-RcvO32L9I1Y/YHAduqsOHzI/AAAAAAAAAzU/cntcXa6-naMj625yICy6k7ooXaOUR7s1wCLcBGAsYHQ/s48/MycodingLogo48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Uq1wO71Tla4/YHAduwDRmTI/AAAAAAAAAzc/aL2mZBLzIaAzxNpP_CDX6H3UF_0QgtP3ACLcBGAsYHQ/s72/MycodingLogo72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-ejottYzOOBM/YHAfj7Vba8I/AAAAAAAAA0I/Yld4lekUnRIGn880LaEI-Ylmtci2mY2DwCLcBGAsYHQ/s96/MycodingLogo96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-K6M31B_obdU/YHAdtSvSqbI/AAAAAAAAAy8/Ol9w7NWumscFeIui31JXXdgfWM166ytaQCLcBGAsYHQ/s144/MycodingLogo144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-A6umHBtGXmE/YHAdtSi0pUI/AAAAAAAAAzE/kqH_6cdf9MQ-ekJL9OhH_SMzBG9Dot9xQCLcBGAsYHQ/s168/MycodingLogo168.png",
+      "sizes": "168x168",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-7jhkjvbdvlY/YHAdt0qt7JI/AAAAAAAAAzI/oz7pnebOAdkwXnkBkDqzQsnHazGjBrI0wCLcBGAsYHQ/s180/MycodingLogo180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-lMynN_Zo9Mc/YHAduH1FUwI/AAAAAAAAAzM/5s_EvC_KrAwWgOl9NQPpCbaeq2FAVVTgQCLcBGAsYHQ/s192/MycodingLogo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-OfGTVPEWdO4/YHAdusZrcfI/AAAAAAAAAzY/acsnssbkrQYPtyPCnnPi4txzjsQtV-FAwCLcBGAsYHQ/s512/MycodingLogo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "https://www.sourcecodeweb.id/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#CC33333"
+}
